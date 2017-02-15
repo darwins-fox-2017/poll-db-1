@@ -1,4 +1,4 @@
-<!-- Release 1  -->
+Release 1
 
 1. Hitung jumlah vote untuk Sen. Olympia Snowe yang memiliki id 524. -->
 SELECT COUNT(politician_id) FROM votes WHERE politician_id = 524;
